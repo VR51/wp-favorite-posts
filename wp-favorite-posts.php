@@ -6,7 +6,7 @@ Description: Let users add posts to personal favorite lists. Registered users ca
 Version: 2.1.3
 Stable tag: 2.1.3
 Requires at least: 3.5
-Tested up to: 4.7.3
+Tested up to: 4.9.4
 Author: leehodson
 Contributors: leehodson,avioli,Huseyin Berberoglu
 Author URI: https://github.com/vr51
