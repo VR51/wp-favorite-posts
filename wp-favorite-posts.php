@@ -142,6 +142,7 @@ function wpfp_die_or_go($str) {
 }
 
 function wpfp_add_to_usermeta($post_id) {
+    $wpfp_favorites = wpfp_get_user_meta();
     $wpfp_favorites[] = $post_id;
     wpfp_update_user_meta($wpfp_favorites);
     return true;
