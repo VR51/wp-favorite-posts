@@ -83,7 +83,10 @@ function wpfp_add_favorite($post_id = "") {
         wpfp_die_or_go( $registeredText );
         return false;
     }
-
+    // db injection protection 
+    if (!is_numeric($post_id)) {
+	return exit;
+    }
     if (wpfp_do_add_to_list($post_id)) {
         // added, now?
         do_action('wpfp_after_add', $post_id);
@@ -114,6 +117,10 @@ function wpfp_remove_favorite($post_id = "") {
 		$show_add_link = WPFavoritePostsAdminPageFramework::getOption( 'WPFavoritePosts', array( 'label_options', 'show_add_link' ), 'default' );
 		
     if (empty($post_id)) $post_id = $_REQUEST['postid'];
+    // db injection protection 
+    if (!is_numeric($post_id)) {
+	return exit;
+    }
     if (wpfp_do_remove_favorite($post_id)) {
         // removed, now?
         do_action('wpfp_after_remove', $post_id);
