@@ -1,6 +1,6 @@
 # WP Favorite Posts
 
-Version 2.1.3.1
+Version 2.1.4
 
 This is the forked version.
 
