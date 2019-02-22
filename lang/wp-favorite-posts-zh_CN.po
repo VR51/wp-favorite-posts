@@ -1,0 +1,1139 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Favorite Posts\n"
+"POT-Creation-Date: 2019-02-11 17:51+0800\n"
+"PO-Revision-Date: 2019-02-11 21:22+0800\n"
+"Last-Translator: WordPress大学 <support@wpdaxue.com>\n"
+"Language-Team: WordPress大学 <support@wpdaxue.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wp-favorite-posts.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: include/library/admin-page-framework/admin-page-framework.php:46
+#, php-format
+msgid "The method is called too early. Perform <code>%2$s</code> earlier."
+msgstr "这个方法太早了。先前执行<code>%2$s</code> 。"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/AdminPageFramework_Factory.php:152
+#, php-format
+msgid "The method is not defined: %1$s"
+msgstr "该方法未定义：%1$s"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:56
+msgid "The options have been updated."
+msgstr "选项已被更新。"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:57
+msgid "The options have been cleared."
+msgstr "选项已被清除。"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:58
+msgid "Export"
+msgstr "导出"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:59
+msgid "Export Options"
+msgstr "导出选项"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:60
+msgid "Import"
+msgstr "导入"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:61
+msgid "Import Options"
+msgstr "导入选项"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:62
+msgid "Submit"
+msgstr "提交"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:63
+msgid "An error occurred while uploading the import file."
+msgstr "上传导入文件时发生错误。"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:64
+#, php-format
+msgid "The uploaded file type is not supported: %1$s"
+msgstr "不支持上传的文件类型：%1$s"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:65
+msgid "Could not load the importing data."
+msgstr "无法加载导入数据。"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:66
+msgid "The uploaded file has been imported."
+msgstr "已导入上传的文件。"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:67
+msgid "No data could be imported."
+msgstr "无法导入任何数据。"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:68
+msgid "Upload Image"
+msgstr "上传图片"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:69
+msgid "Use This Image"
+msgstr "使用此图片"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:70
+msgid "Insert from URL"
+msgstr "从URL插入"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:71
+msgid "Are you sure you want to reset the options?"
+msgstr "您确定要重置选项吗？"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:72
+msgid "Please confirm your action."
+msgstr "请确认您的操作。"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:73
+msgid "The specified options have been deleted."
+msgstr "指定的选项已被删除。"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:74
+msgid "A problem occurred while processing the form data. Please try again."
+msgstr "处理表单数据时出现问题。请再试一次。"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:75
+#, php-format
+msgid ""
+"Not all form fields could not be sent. Please check your server settings of "
+"PHP <code>max_input_vars</code> and consult the server administrator to "
+"increase the value. <code>max input vars</code>: %1$s. <code>$_POST</code> "
+"count: %2$s"
+msgstr ""
+"并非所有表单字段都无法发送。请检查PHP <code>max_input_vars</code>服务器设置，"
+"并咨询服务器管理员以增加值。 <code>max input vars</code> ：%1$s。 <code>"
+"$_POST</code>计数：%2$s"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:76
+msgid "Is it okay to send the email?"
+msgstr "发送电子邮件可以吗？"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:77
+msgid "The email has been sent."
+msgstr "电子邮件已发送。"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:78
+msgid "The email has been scheduled."
+msgstr "电子邮件已经安排好了。"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:79
+msgid "There was a problem sending the email"
+msgstr "发送电子邮件时出现问题"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:80
+msgid "Title"
+msgstr "标题"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:81
+msgid "Author"
+msgstr "作者"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:82
+msgid "Categories"
+msgstr "分类"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:83
+msgid "Tags"
+msgstr "标签"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:84
+msgid "Comments"
+msgstr "评论"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:85
+msgid "Date"
+msgstr "日期"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:86
+msgid "Show All"
+msgstr "显示所有"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:87
+msgid "Show All Authors"
+msgstr "显示所有作者"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:88
+msgid "Thank you for creating with"
+msgstr "感谢您创建"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:89
+msgid "and"
+msgstr "和"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:90
+msgid "Settings"
+msgstr "设置"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:91
+msgid "Manage"
+msgstr "管理"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:92
+msgid "Select Image"
+msgstr "选择图片"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:93
+msgid "Upload File"
+msgstr "上传文件"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:94
+msgid "Use This File"
+msgstr "使用此文件"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:95
+msgid "Select File"
+msgstr "选择文件"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:96
+msgid "Remove Value"
+msgstr "删除值"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:97
+msgid "Select All"
+msgstr "全选"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:98
+msgid "Select None"
+msgstr "全部不选"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:99
+msgid "No term found."
+msgstr "找不到项目。"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:100
+msgid "Select"
+msgstr "选择"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:101
+msgid "Insert"
+msgstr "插入"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:102
+msgid "Use This"
+msgstr "使用这个"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:103
+msgid "Return to Library"
+msgstr "返回库"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:104
+#, php-format
+msgid "%1$s queries in %2$s seconds."
+msgstr "%1$s秒在%2$s秒内查询。"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:105
+#, php-format
+msgid "%1$s out of %2$s MB (%3$s) memory used."
+msgstr "已使用内存 %1$s，总内存 %2$s MB (%3$s)。"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:106
+#, php-format
+msgid "Peak memory usage %1$s MB."
+msgstr "峰值内存使用量 %1$s MB。"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:107
+#, php-format
+msgid "Initial memory usage  %1$s MB."
+msgstr "初始内存使用量 %1$s MB。"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:108
+msgid "The allowed maximum number of fields is {0}."
+msgstr "允许的最大字段数为{0}。"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:109
+msgid "The allowed minimum number of fields is {0}."
+msgstr "允许的最小字段数为{0}。"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:110
+msgid "Add"
+msgstr "添加"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:111
+msgid "Remove"
+msgstr "移除"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:112
+msgid "The allowed maximum number of sections is {0}"
+msgstr "允许的最大部分数为{0}"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:113
+msgid "The allowed minimum number of sections is {0}"
+msgstr "允许的最小部分数为{0}"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:114
+msgid "Add Section"
+msgstr "添加小节"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:115
+msgid "Remove Section"
+msgstr "删除部分"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:116
+msgid "Toggle All"
+msgstr "全部切换"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:117
+msgid "Toggle all collapsible sections"
+msgstr "切换所有可折叠部分"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:118
+#: wpfp-admin.php:569
+msgid "Reset"
+msgstr "重置"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:119
+msgid "Yes"
+msgstr "有"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:120
+msgid "No"
+msgstr "否"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:121
+msgid "On"
+msgstr "开"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:122
+msgid "Off"
+msgstr "关"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:123
+#: wpfp-admin.php:116
+msgid "Enabled"
+msgstr "启用"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:124
+#: wpfp-admin.php:117
+msgid "Disabled"
+msgstr "禁用"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:125
+msgid "Supported"
+msgstr "已支持"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:126
+msgid "Not Supported"
+msgstr "不支持"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:127
+msgid "Functional"
+msgstr "功能"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:128
+msgid "Not Functional"
+msgstr "没有功能"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:129
+msgid "Too Long"
+msgstr "太长"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:130
+msgid "Acceptable"
+msgstr "可接受"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:131
+msgid "No log found."
+msgstr "找不到日志。"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:132
+#, php-format
+msgid "The method is called too early: %1$s"
+msgstr "该方法过早调用：%1$s"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:133
+msgid "Debug Info"
+msgstr "调试信息"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:134
+msgid "Click here to expand to view the contents."
+msgstr "单击此处展开以查看内容。"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:135
+msgid "Click here to collapse the contents."
+msgstr "单击此处折叠内容。"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:136
+msgid "Loading..."
+msgstr "正在加载 ..."
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:137
+msgid "Please enable JavaScript for better user experience."
+msgstr "请启用JavaScript以获得更好的用户体验。"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:138
+msgid "Debug"
+msgstr "调试"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:139
+msgid "Field Arguments"
+msgstr "字段参数"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:140
+msgid ""
+"This information will be disabled when <code>WP_DEBUG</code> is set to "
+"<code>false</code> in <code>wp-config.php</code>."
+msgstr ""
+"在<code>wp-config.php</code>中将<code>WP_DEBUG</code>设置为<code>false</code>"
+"时，将禁用此信息。"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:141
+msgid "Section Arguments"
+msgstr "部分参数"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:142
+msgid "The ability to repeat sections is disabled."
+msgstr "重复部分的功能已被禁用。"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:143
+msgid "The ability to repeat fields is disabled."
+msgstr "重复字段的功能已被禁用。"
+
+#: include/library/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:144
+msgid "Warning."
+msgstr "警告。"
+
+#: include/library/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_color.php:196
+msgid "Clear"
+msgstr "清除"
+
+#: include/library/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_color.php:196
+msgid "Default"
+msgstr "默认"
+
+#: include/library/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_color.php:196
+msgid "Select Color"
+msgstr "选择颜色"
+
+#: include/library/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_color.php:196
+msgid "Current Color"
+msgstr "当前颜色"
+
+#: include/library/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:65
+msgid "No browser information found."
+msgstr "找不到浏览器信息。"
+
+#: include/library/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:92
+#: include/library/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:168
+msgid "Version"
+msgstr "版本"
+
+#: include/library/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:92
+msgid "Language"
+msgstr "语言"
+
+#: include/library/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:92
+#: include/library/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:168
+msgid "Memory Limit"
+msgstr "内存限制"
+
+#: include/library/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:92
+msgid "Multi-site"
+msgstr "多站点"
+
+#: include/library/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:92
+msgid "Permalink Structure"
+msgstr "固定链接结构"
+
+#: include/library/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:92
+msgid "Active Theme"
+msgstr "激活主题"
+
+#: include/library/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:92
+msgid "Registered Post Statuses"
+msgstr "注册文章状态"
+
+#: include/library/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:92
+msgid "Table Prefix"
+msgstr "表前缀"
+
+#: include/library/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:92
+msgid "Table Prefix Length"
+msgstr "表前缀长度"
+
+#: include/library/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:92
+msgid "Table Prefix Status"
+msgstr "表前缀状态"
+
+#: include/library/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:92
+msgid "Multibite String Extension"
+msgstr "多字符串扩展"
+
+#: include/library/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:92
+msgid "WP_CONTENT_DIR Writeable"
+msgstr "WP_CONTENT_DIR可写"
+
+#: include/library/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:92
+msgid "Active Plugins"
+msgstr "激活插件"
+
+#: include/library/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:92
+msgid "Network Active Plugins"
+msgstr "网络活动插件"
+
+#: include/library/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:92
+#: include/library/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:168
+msgid "Constants"
+msgstr "常量"
+
+#: include/library/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:168
+msgid "Safe Mode"
+msgstr "安全模式"
+
+#: include/library/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:168
+msgid "Upload Max Size"
+msgstr "上传最大尺寸"
+
+#: include/library/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:168
+msgid "Post Max Size"
+msgstr "Post 最大值"
+
+#: include/library/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:168
+msgid "Upload Max File Size"
+msgstr "上传最大文件大小"
+
+#: include/library/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:168
+msgid "Max Execution Time"
+msgstr "最大执行时间"
+
+#: include/library/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:168
+msgid "Max Input Vars"
+msgstr "最大输入变量"
+
+#: include/library/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:168
+msgid "Argument Separator"
+msgstr "参数分隔符"
+
+#: include/library/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:168
+msgid "Allow URL File Open"
+msgstr "允许网址文件打开"
+
+#: include/library/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:168
+msgid "Display Errors"
+msgstr "显示错误"
+
+#: include/library/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:168
+msgid "Log Errors"
+msgstr "记录错误"
+
+#: include/library/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:168
+msgid "Error log location"
+msgstr "错误日志位置"
+
+#: include/library/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:168
+msgid "Error Reporting Level"
+msgstr "错误报告级别"
+
+#: include/library/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:168
+msgid "FSOCKOPEN"
+msgstr "FSOCKOPEN"
+
+#: include/library/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:168
+msgid "cURL"
+msgstr "cURL"
+
+#: include/library/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:168
+msgid "SOAP"
+msgstr "SOAP"
+
+#: include/library/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:168
+msgid "SUHOSIN"
+msgstr "SUHOSIN"
+
+#: include/library/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:172
+msgid "Web Server"
+msgstr "Web 服务器"
+
+#: include/library/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:172
+msgid "Session"
+msgstr "会话"
+
+#: include/library/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:172
+msgid "Session Name"
+msgstr "会话名"
+
+#: include/library/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:172
+msgid "Session Cookie Path"
+msgstr "会话Cookie路径"
+
+#: include/library/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:172
+msgid "Session Save Path"
+msgstr "会话保存路径"
+
+#: include/library/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:172
+msgid "Session Use Cookies"
+msgstr "会话使用Cookie"
+
+#: include/library/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:172
+msgid "Session Use Only Cookies"
+msgstr "会话仅使用Cookie"
+
+#: templates/wpfp-page-template.php:58
+msgid "&larr; Previous Entries"
+msgstr "&larr; 以前的条目"
+
+#: templates/wpfp-page-template.php:59
+msgid "Next Entries &rarr;"
+msgstr "下一批 &rarr;"
+
+#: wpfp-admin.php:47
+msgid "General"
+msgstr "常规"
+
+#: wpfp-admin.php:51
+msgid "Display"
+msgstr "显示"
+
+#: wpfp-admin.php:55
+msgid "Thumbnail"
+msgstr "缩略图"
+
+#: wpfp-admin.php:59
+msgid "Labels"
+msgstr "标签"
+
+#: wpfp-admin.php:63
+msgid "Dashboard"
+msgstr "仪表盘"
+
+#: wpfp-admin.php:67
+msgid "Advanced"
+msgstr "高级"
+
+#: wpfp-admin.php:71 wpfp-old-admin.php:332
+msgid "Help"
+msgstr "帮助"
+
+#: wpfp-admin.php:94
+msgid "General Options"
+msgstr "常规设置"
+
+#: wpfp-admin.php:95
+msgid ""
+"<p>Miscellaneous options that fit into no other better defined category.</p>"
+msgstr "<p>不适合归类的一些设置选项。 </p>"
+
+#: wpfp-admin.php:105
+msgid "Enable favorite lists for registered users only?"
+msgstr "仅为注册用户启用收藏夹列表？"
+
+#: wpfp-admin.php:106
+msgid ""
+"Select this option to prevent the creation of favorite lists by anonymous "
+"visitors."
+msgstr "选择此选项可防止匿名访问者创建收藏列表。"
+
+#: wpfp-admin.php:113
+msgid "Statistics"
+msgstr "统计"
+
+#: wpfp-admin.php:114
+msgid ""
+"Enable statistics to count the total number of times each post has been "
+"added to a favorites list."
+msgstr "启用统计信息以计算每个文章添加到收藏列表的总次数。"
+
+#: wpfp-admin.php:124 wpfp-admin.php:195 wpfp-admin.php:272 wpfp-admin.php:430
+#: wpfp-admin.php:520 wpfp-admin.php:560
+msgid "Save Settings"
+msgstr "保存设置"
+
+#: wpfp-admin.php:125 wpfp-admin.php:196 wpfp-admin.php:273 wpfp-admin.php:431
+#: wpfp-admin.php:521 wpfp-admin.php:562
+msgid "Save before you switch tabs."
+msgstr "切换选项卡前保存。"
+
+#: wpfp-admin.php:126 wpfp-admin.php:197 wpfp-admin.php:274 wpfp-admin.php:432
+#: wpfp-admin.php:522 wpfp-admin.php:561
+msgid "Save"
+msgstr "保存"
+
+#: wpfp-admin.php:138
+msgid "Display Options"
+msgstr "显示选项"
+
+#: wpfp-admin.php:139
+msgid "<p>Control the way WP Favorite Posts displays buttons and lists.</p>"
+msgstr "<p>控制WP Favorite Posts显示按钮和列表的方式。 </p>"
+
+#: wpfp-admin.php:149
+msgid "Show WP Favorite Posts buttons"
+msgstr "显示WP收藏文章按钮"
+
+#: wpfp-admin.php:150
+msgid ""
+"Automatically show buttons before or after post content, or add the buttons "
+"manually per page or post with the shortcode with <strong>[wpfp-link]</"
+"strong>"
+msgstr ""
+"在发布内容之前或之后自动显示按钮，或者每页手动添加按钮或使用<strong>[wpfp-"
+"link]</strong>的简码发布"
+
+#: wpfp-admin.php:152
+msgid "Before content"
+msgstr "在内容之前"
+
+#: wpfp-admin.php:153
+msgid "After content"
+msgstr "在内容之后"
+
+#: wpfp-admin.php:154
+msgid "Manual placement"
+msgstr "手动放置"
+
+#: wpfp-admin.php:160
+msgid "Show which icon before the button title"
+msgstr "在按钮标题前显示哪个图标"
+
+#: wpfp-admin.php:166
+msgid "Custom Icon"
+msgstr "自定义图标"
+
+#: wpfp-admin.php:167
+msgid "No Icon"
+msgstr "无图标"
+
+#: wpfp-admin.php:175
+msgid "Add custom icon"
+msgstr "添加自定义图标"
+
+#: wpfp-admin.php:176
+msgid ""
+"This icon is shown next to buttons only when <strong>Custom Icon</strong> is "
+"selected above."
+msgstr ""
+"仅当上面选择了<strong>自定义图标</strong>时，此图标才会显示在按钮旁边。"
+
+#: wpfp-admin.php:184
+msgid "Favorite posts per page"
+msgstr "每页显示收藏的文章数"
+
+#: wpfp-admin.php:185
+msgid ""
+"This only works with the default favorite post list page template (wpfp-page-"
+"template.php)."
+msgstr "这仅适用于默认收藏文章列表页面模板（wpfp-page-template.php）。"
+
+#: wpfp-admin.php:208
+msgid "Thumbnail Options"
+msgstr "缩略图选项"
+
+#: wpfp-admin.php:209
+msgid "<p>Configure the display of the post feature image thumbnail.</p>"
+msgstr "<p>配置文章特色图片缩略图的显示。 </p>"
+
+#: wpfp-admin.php:219 wpfp-admin.php:467 wpfp-widgets.php:35
+msgid "Show feature image thumbnail?"
+msgstr "显示特色图片缩略图？"
+
+#: wpfp-admin.php:220 wpfp-admin.php:319 wpfp-admin.php:350 wpfp-admin.php:468
+#: wpfp-widgets.php:36
+msgid "Enable"
+msgstr "启用"
+
+#: wpfp-admin.php:221 wpfp-admin.php:469 wpfp-widgets.php:37
+msgid ""
+"Select this option to show the feature image of a post next to the post's "
+"title in the favorite list table."
+msgstr "选择此选项可在收藏夹列表中的文章标题旁边显示特色图片。"
+
+#: wpfp-admin.php:227 wpfp-admin.php:475 wpfp-widgets.php:57
+msgid "Add default image"
+msgstr "添加默认图片"
+
+#: wpfp-admin.php:228 wpfp-admin.php:476 wpfp-widgets.php:58
+msgid "This image displays alongside posts that have no set feature image."
+msgstr "此图片显示在没有设置特色图片的文章旁边。"
+
+#: wpfp-admin.php:236 wpfp-admin.php:484 wpfp-widgets.php:43
+msgid "Thumbnail alignment relative to post title"
+msgstr "相对于文章标题的缩略图对齐方式"
+
+#: wpfp-admin.php:237 wpfp-admin.php:485 wpfp-widgets.php:44
+msgid ""
+"Thumbnail alignment uses the default WordPress image CSS classes. Select "
+"'Natural' to apply no CSS alignment class."
+msgstr "缩略图对齐使用默认的WordPress图片CSS类。选择“自然”不应用CSS对齐类。"
+
+#: wpfp-admin.php:239 wpfp-admin.php:487 wpfp-widgets.php:46
+msgid "Left"
+msgstr "左"
+
+#: wpfp-admin.php:240 wpfp-admin.php:488 wpfp-widgets.php:47
+msgid "Right"
+msgstr "右"
+
+#: wpfp-admin.php:241 wpfp-admin.php:489 wpfp-widgets.php:48
+msgid "Center"
+msgstr "中"
+
+#: wpfp-admin.php:242 wpfp-admin.php:490 wpfp-widgets.php:49
+msgid "None"
+msgstr "无"
+
+#: wpfp-admin.php:243 wpfp-admin.php:491 wpfp-widgets.php:50
+msgid "Natural"
+msgstr "自然"
+
+#: wpfp-admin.php:250 wpfp-admin.php:498 wpfp-widgets.php:66
+msgid "Thumbnail width (pixels)"
+msgstr "缩略图宽度（像素）"
+
+#: wpfp-admin.php:251 wpfp-admin.php:499 wpfp-widgets.php:67
+msgid "Set a preferred width for the thumbnail."
+msgstr "设置缩略图的首选宽度。"
+
+#: wpfp-admin.php:261 wpfp-admin.php:509 wpfp-widgets.php:77
+msgid "Thumbnail height (pixels)"
+msgstr "缩略图高度（像素）"
+
+#: wpfp-admin.php:262 wpfp-admin.php:510 wpfp-widgets.php:78
+msgid "Set a preferred height for the thumbnail."
+msgstr "设置缩略图的首选高度。"
+
+#: wpfp-admin.php:285
+msgid "Button Label Options"
+msgstr "按钮标签选项"
+
+#: wpfp-admin.php:286
+msgid "<p>Set the text labels and text strings used by WP Favorite Posts.</p>"
+msgstr "<p>设置WP Favorite Posts使用的文本标签和文本字符串。 </p>"
+
+#: wpfp-admin.php:296
+msgid "Add to favorites link text"
+msgstr "[添加到收藏夹]链接文本"
+
+#: wpfp-admin.php:304
+msgid "Favorite added"
+msgstr "已收藏"
+
+#: wpfp-admin.php:309
+msgid "Favorite added text"
+msgstr "[已收藏]文本"
+
+#: wpfp-admin.php:318
+msgid "Show remove link?"
+msgstr "显示删除链接？"
+
+#: wpfp-admin.php:327
+msgid "Remove from favorites link text"
+msgstr "【从收藏夹删除】链接文本"
+
+#: wpfp-admin.php:335
+msgid "Favorite removed"
+msgstr "已取消收藏"
+
+#: wpfp-admin.php:340
+msgid "Favorite removed text"
+msgstr "[已取消收藏]文本"
+
+#: wpfp-admin.php:349
+msgid "Show add link?"
+msgstr "显示添加链接？"
+
+#: wpfp-admin.php:358 wpfp-widgets.php:88
+msgid "Clear all favorites link text"
+msgstr "[清空所有收藏]链接文本"
+
+#: wpfp-admin.php:367 wpfp-widgets.php:94
+msgid "Favorites cleared text"
+msgstr "【已清空收藏】文本"
+
+#: wpfp-admin.php:376 wpfp-widgets.php:100
+msgid "Favorites are empty text"
+msgstr "【收藏夹为空】文本"
+
+#: wpfp-admin.php:387
+msgid "[remove] link text"
+msgstr "[删除]链接文字"
+
+#: wpfp-admin.php:397 wpfp-widgets.php:110
+msgid "Favorites saved to cookies text"
+msgstr "【收藏已保存到cookie】文本"
+
+#: wpfp-admin.php:408
+msgid "Statistics disabled text"
+msgstr "统计禁用文本"
+
+#: wpfp-admin.php:419
+msgid "Registered users only text."
+msgstr "【只有注册用户可用】文本。"
+
+#: wpfp-admin.php:445
+msgid "Dashboard Options"
+msgstr "仪表板选项"
+
+#: wpfp-admin.php:446
+msgid "<p>Configure the display of the dashboard widget.</p>"
+msgstr "<p>配置仪表板小工具的显示。 </p>"
+
+#: wpfp-admin.php:456
+msgid "Favorites to show"
+msgstr "要显示的收藏"
+
+#: wpfp-admin.php:457
+msgid "Number of favorited post links to show."
+msgstr "显示的收藏文章链接数。"
+
+#: wpfp-admin.php:533
+msgid "Advanced Options"
+msgstr "高级选项"
+
+#: wpfp-admin.php:534
+msgid ""
+"<p>Other advanced settings that affect the performance of WP Favorite Posts."
+"</p>"
+msgstr "<p>影响WP Favorite Posts性能的其他高级设置。 </p>"
+
+#: wpfp-admin.php:544
+msgid "Disable the plugin's JS file"
+msgstr "禁用插件的JS文件"
+
+#: wpfp-admin.php:545 wpfp-admin.php:553
+msgid "Disable"
+msgstr "禁用"
+
+#: wpfp-admin.php:546
+msgid ""
+"Select this option to stop the plugin loading its JS file. Could help to "
+"resolve JS conflicts. Disables ajax button text updates."
+msgstr ""
+"选择此选项可停止插件加载其JS文件。可以帮助解决JS冲突。禁用ajax按钮文本更新。"
+
+#: wpfp-admin.php:552
+msgid "Disable the plugin's CSS file"
+msgstr "禁用插件的CSS文件"
+
+#: wpfp-admin.php:554
+msgid ""
+"Select this option to stop the plugin loading its own CSS file. Could help "
+"to resolve CSS conflicts."
+msgstr "选择此选项可停止插件加载自己的CSS文件。可以帮助解决CSS冲突。"
+
+#: wpfp-admin.php:566
+msgid "Reset All Settings"
+msgstr "重置所有设置"
+
+#: wpfp-admin.php:567
+msgid "Click to reset."
+msgstr "点击重置。"
+
+#: wpfp-admin.php:571
+msgid ""
+"This resets all WP Favorite Post options. This will not reset individual "
+"post statistics."
+msgstr "这将重置所有WP Favorite Post选项。这不会重置单个文章统计信息。"
+
+#: wpfp-admin.php:576
+msgid "Export Settings"
+msgstr "导出设置"
+
+#: wpfp-admin.php:577
+msgid "Export settings"
+msgstr "导出设置"
+
+#: wpfp-admin.php:578
+msgid "Export settings to use in another installation of WP Favorite Posts."
+msgstr "导出设置以在WP Favorite Posts的另一个安装中使用。"
+
+#: wpfp-admin.php:583 wpfp-admin.php:584
+msgid "Import Settings"
+msgstr "导入设置"
+
+#: wpfp-admin.php:585
+msgid "Import settings from another installation of WP Favorite Posts."
+msgstr "从另一个WP Favorite Posts安装中导入设置。"
+
+#: wpfp-admin.php:597
+msgid "Help and Debug Information"
+msgstr "帮助和调试信息"
+
+#: wpfp-admin.php:598
+msgid ""
+"<p>Help links, useful information and system debug information. This is only "
+"visible to site administrators.</p><ol><li>Decide whether to show the Add to "
+"Favorites buttons automatically or manually. If manually you can use the "
+"shortcode <strong>[wpfp-link]</strong>.</li>Create a page and add the "
+"shortcode <strong>[wp-favorite-posts]</strong> to display the visitor his "
+"favorite posts.<li>You can show a list of all time favorite posts as "
+"collected over time by using the shortcode <strong>[wpfp-most number='5']</"
+"strong></li><li>Visit <a href=\"https://github.com/vr51/wp-favorite-posts/\" "
+"target=\"_blank\">https://github.com/vr51/wp-favorite-posts</a> For help and "
+"support.</li><li>Send donations with <a href=\"https://paypal.me/vr51/\" "
+"target=\"_blank\">PayPal</a></li></ol>"
+msgstr ""
+"<p>帮助链接，有用信息和系统调试信息。这仅对站点管理员可见。 感谢 WordPress大"
+"学 https://www.wpdaxue.com 提供简体中文支持！</p><ol><li>决定是自动还是手动显"
+"示“添加到收藏夹”按钮。如果手动，您可以使用简码<strong>[wpfp-link]</"
+"strong> 。 </li>创建一个页面并添加简码<strong>[wp-favorite-posts]</strong>以"
+"向访问者显示他最喜欢的文章。 <li>您可以使用简码<strong>[wpfp-most number "
+"='5']</strong>显示随时间收集的所有时间收藏文章的列表</li><li>访问<a href="
+"\"https://github.com/vr51/wp-favorite-posts/\" target=\"_blank\">https://"
+"github.com/vr51/wp-favorite-posts</a>获取帮助和支持。 </li><li>使用<a href="
+"\"https://paypal.me/vr51/\" target=\"_blank\">PayPal</a>进行捐款</li></ol>"
+
+#: wpfp-admin.php:611
+msgid "System Information"
+msgstr "系统信息"
+
+#: wpfp-old-admin.php:5
+msgid "Cheatin&#8217; uh?"
+msgstr "Cheatin&#8217; uh?"
+
+#: wpfp-old-admin.php:69
+msgid "Options saved."
+msgstr "选项已保存。"
+
+#: wpfp-old-admin.php:72
+msgid "WP Favorite Posts Configuration"
+msgstr "WP Favorite Posts 配置"
+
+#: wpfp-old-admin.php:85 wpfp-old-admin.php:107 wpfp-old-admin.php:308
+#: wpfp-old-admin.php:329
+msgid "Click to open/close"
+msgstr "点击 打开/关闭"
+
+#: wpfp-old-admin.php:88
+msgid "Do you use it ?"
+msgstr "使用它？"
+
+#: wpfp-old-admin.php:110
+msgid "Options"
+msgstr "选项"
+
+#: wpfp-old-admin.php:115
+msgid "Only <strong>registered users</strong> can favorite"
+msgstr "只有 <strong>注册用户</strong> 能收藏"
+
+#: wpfp-old-admin.php:119
+msgid "Auto show favorite link"
+msgstr "自动显示收藏链接"
+
+#: wpfp-old-admin.php:131
+msgid "Before Link Image"
+msgstr "之前的链接图片"
+
+#: wpfp-old-admin.php:162
+msgid "Favorite post per page"
+msgstr "每页最喜欢的文章"
+
+#: wpfp-old-admin.php:170
+msgid "Display post thumbnails in favorites list?"
+msgstr "在收藏夹列表中显示文章缩略图？"
+
+#: wpfp-old-admin.php:175
+msgid "Default thumbnail image?"
+msgstr "默认缩略图？"
+
+#: wpfp-old-admin.php:185
+msgid "Thumbnail alignment CSS class:"
+msgstr "缩略图对齐CSS类："
+
+#: wpfp-old-admin.php:199
+msgid "Thumbnail width?"
+msgstr "缩略图宽度？"
+
+#: wpfp-old-admin.php:210
+msgid "Thumbnail height?"
+msgstr "缩略图高度？"
+
+#: wpfp-old-admin.php:220
+msgid "Most favorited posts statistics"
+msgstr "最受欢迎的文章统计"
+
+#: wpfp-old-admin.php:245 wpfp-old-admin.php:300 wpfp-old-admin.php:322
+msgid "Update options &raquo;"
+msgstr "更新选项 &raquo;"
+
+#: wpfp-old-admin.php:257
+msgid "Label Settings"
+msgstr "标签设置"
+
+#: wpfp-old-admin.php:263
+msgid "Text for add link"
+msgstr "文本添加链接"
+
+#: wpfp-old-admin.php:266
+msgid "Text for added"
+msgstr "文本添加"
+
+#: wpfp-old-admin.php:270
+msgid "Text for remove link"
+msgstr "文本删除链接"
+
+#: wpfp-old-admin.php:273
+msgid "Text for removed"
+msgstr "文本删除"
+
+#: wpfp-old-admin.php:279
+msgid "Text for clear link"
+msgstr "清除链接文本"
+
+#: wpfp-old-admin.php:282
+msgid "Text for cleared"
+msgstr "已清除文本"
+
+#: wpfp-old-admin.php:285
+msgid "Text for favorites are empty"
+msgstr "收藏为空的文本"
+
+#: wpfp-old-admin.php:288
+msgid "Text for [remove] link"
+msgstr "[remove] 链接的文本"
+
+#: wpfp-old-admin.php:291
+msgid "Text for favorites saved to cookies"
+msgstr "保存收藏到cookies的文本"
+
+#: wpfp-old-admin.php:294
+msgid "Text for \"only registered users can favorite\" error message"
+msgstr "“只有注册用户才能收藏”错误提示文本"
+
+#: wpfp-old-admin.php:311
+msgid "Advanced Settings"
+msgstr "高级设置"
+
+#. Plugin Name of the plugin/theme
+msgid "WP Favorite Posts"
+msgstr "WP Favorite Posts"
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/vr51/wp-favorite-posts"
+msgstr "https://github.com/vr51/wp-favorite-posts"
+
+#. Description of the plugin/theme
+msgid ""
+"Let users add posts to personal favorite lists. Registered users can keep "
+"lists permanently. Unregistered users can keep lists for their session "
+"lifetime. Display favorite buttons automatically above or below posts, or "
+"add manually. Show the favorites list in a page that includes the shortcode "
+"<code>[wp-favorite-posts]</code>. View total stats in dashboard widget. See "
+"readme for version details."
+msgstr ""
+"让用户将文章添加到个人收藏列表中。注册用户可以永久保留列表。未注册的用户可以"
+"保留其会话生命周期的列表。自动在文章上方或下方显示收藏按钮，或手动添加。在包"
+"含简码<code>[wp-favorite-posts]</code>的页面中显示收藏夹列表。查看仪表板小工"
+"具中的总统计信息。有关版本详细信息，请参阅自述"
+
+#. Author of the plugin/theme
+msgid "leehodson"
+msgstr "leehodson"
+
+#. Author URI of the plugin/theme
+msgid "https://github.com/vr51"
+msgstr "https://github.com/vr51"
